@@ -1,5 +1,11 @@
 # Programación concurrente y paralela
 
+##### Campos Guevara Rogelio  201640376
+##### Gonzalez Suarez Carlos  201630293
+##### Ochoa Torres Fernando  201649279
+##### Osorio Pérez Jael Orlando  201661971
+##### Sosa Barranco Alexis Jonathan  201618564
+
 ## Filósofos
 Se agregan dos archivos referentes al algoritmo de los filósofos comensales.
 
